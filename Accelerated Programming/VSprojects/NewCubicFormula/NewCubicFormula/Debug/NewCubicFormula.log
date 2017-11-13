@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\stan thuman\desktop\vsprojects\newcubicformula\newcubicformula\main.cpp(47): warning C4715: 'repeatProgram' : not all control paths return a value
+  NewCubicFormula.vcxproj -> C:\Users\Stan Thuman\Desktop\VSprojects\NewCubicFormula\Debug\NewCubicFormula.exe

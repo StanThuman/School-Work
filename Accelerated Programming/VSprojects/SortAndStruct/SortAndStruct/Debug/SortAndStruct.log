@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\stan thuman\desktop\vsprojects\sortandstruct\sortandstruct\main.cpp(90): warning C4101: 'idTemp' : unreferenced local variable
+  SortAndStruct.vcxproj -> C:\Users\Stan Thuman\Desktop\VSprojects\SortAndStruct\Debug\SortAndStruct.exe

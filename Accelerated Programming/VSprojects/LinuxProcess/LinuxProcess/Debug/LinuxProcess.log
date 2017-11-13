@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\stan thuman\desktop\vsprojects\linuxprocess\linuxprocess\source.cpp(20): error C2664: 'size_t strftime(char *,size_t,const char *,const tm *)' : cannot convert argument 1 from 'std::string [50]' to 'char *'
+          Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast

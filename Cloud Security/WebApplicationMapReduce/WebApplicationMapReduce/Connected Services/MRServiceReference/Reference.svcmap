@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="27caf4e3-50b7-4908-a138-51b4265dac30" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57772/MapReduceService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MapReduceService.xsd" MetadataType="Schema" ID="81ebe210-618a-4d6f-9537-7be92c562cb5" SourceId="1" SourceUrl="http://localhost:57772/MapReduceService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MapReduceService1.xsd" MetadataType="Schema" ID="e8d44bdd-85c3-4752-93a8-4338e36adb79" SourceId="1" SourceUrl="http://localhost:57772/MapReduceService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MapReduceService.disco" MetadataType="Disco" ID="032cf6db-d2a0-4b5f-9b83-4ce3791099a3" SourceId="1" SourceUrl="http://localhost:57772/MapReduceService.svc?disco" />
+    <MetadataFile FileName="MapReduceService2.xsd" MetadataType="Schema" ID="c834edbe-f702-4616-a180-29fe7cb50570" SourceId="1" SourceUrl="http://localhost:57772/MapReduceService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MapReduceService3.xsd" MetadataType="Schema" ID="2c7279f9-6059-48eb-bab3-f3fa1a55f922" SourceId="1" SourceUrl="http://localhost:57772/MapReduceService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MapReduceService.wsdl" MetadataType="Wsdl" ID="d93aed4c-d9e5-4dc5-9c1b-b87695e4e5c0" SourceId="1" SourceUrl="http://localhost:57772/MapReduceService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,10 @@
+﻿  token.c
+  shell.c
+c:\users\stan thuman\desktop\compiler homework\compilerinc\compilerinc\shell.c(81): warning C4018: '<' : signed/unsigned mismatch
+c:\users\stan thuman\desktop\compiler homework\compilerinc\compilerinc\shell.c(88): warning C4018: '<' : signed/unsigned mismatch
+  scanner.c
+  parser.c
+c:\users\stan thuman\desktop\compiler homework\compilerinc\compilerinc\parser.c(266): warning C4129: '(' : unrecognized character escape sequence
+  messages.c
+  Generating Code...
+  CompilerInC.vcxproj -> C:\Users\Stan Thuman\Desktop\Compiler Homework\CompilerInC\Debug\CompilerInC.exe

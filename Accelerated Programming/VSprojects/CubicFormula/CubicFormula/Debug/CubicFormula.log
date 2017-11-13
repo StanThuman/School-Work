@@ -1,0 +1,4 @@
+﻿  CubicForm.cpp
+c:\users\stan thuman\desktop\school work\vsprojects\cubicformula\cubicformula\cubicform.cpp(110): warning C4101: 'restartChar' : unreferenced local variable
+c:\users\stan thuman\desktop\school work\vsprojects\cubicformula\cubicformula\cubicform.cpp(62): warning C4715: 'repeatProgram' : not all control paths return a value
+  CubicFormula.vcxproj -> C:\Users\Stan Thuman\Desktop\School Work\VSprojects\CubicFormula\Debug\CubicFormula.exe

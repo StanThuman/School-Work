@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\stan thuman\desktop\vsprojects\sortarrangement\sortarrangement\main.cpp(51): warning C4129: 's' : unrecognized character escape sequence
+c:\users\stan thuman\desktop\vsprojects\sortarrangement\sortarrangement\main.cpp(72): warning C4129: 's' : unrecognized character escape sequence
+  SortArrangement.vcxproj -> C:\Users\Stan Thuman\Desktop\VSprojects\SortArrangement\Debug\SortArrangement.exe

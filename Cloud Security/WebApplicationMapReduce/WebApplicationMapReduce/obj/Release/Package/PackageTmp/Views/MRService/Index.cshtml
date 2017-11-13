@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container body-shadow body-white body-content">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>MapReduce Service</h1>
+            <p class="lead">
+               To use the service, enter two sentences.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container body-shadow body-white body-content body-margin">
+    <div class="">
+        @using (Html.BeginForm("SentenceForm", "MRService", FormMethod.Post))
+        {
+            <div class="form-group">
+                <label for="exampleInputEmail1">Sentence 1</label>
+                <input type="text" class="form-control" id="sentence1" name="sentence1">
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputEmail1">Sentence 2</label>
+                <input type="text" class="form-control" id="sentence2" name="sentence2">
+            </div>
+
+
+            <button type="submit" class="btn btn-default">Submit</button>                
+        }
+    </div>
+</div>
+
+
+
+
