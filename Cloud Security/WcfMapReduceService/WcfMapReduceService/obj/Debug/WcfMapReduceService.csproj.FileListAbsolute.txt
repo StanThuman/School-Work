@@ -1,0 +1,6 @@
+C:\Users\Stan Thuman\Documents\Visual Studio 2017\Projects\WcfMapReduceService\WcfMapReduceService\bin\WcfMapReduceService.dll.config
+C:\Users\Stan Thuman\Documents\Visual Studio 2017\Projects\WcfMapReduceService\WcfMapReduceService\bin\WcfMapReduceService.dll
+C:\Users\Stan Thuman\Documents\Visual Studio 2017\Projects\WcfMapReduceService\WcfMapReduceService\bin\WcfMapReduceService.pdb
+C:\Users\Stan Thuman\Documents\Visual Studio 2017\Projects\WcfMapReduceService\WcfMapReduceService\obj\Debug\WcfMapReduceService.dll
+C:\Users\Stan Thuman\Documents\Visual Studio 2017\Projects\WcfMapReduceService\WcfMapReduceService\obj\Debug\WcfMapReduceService.pdb
+C:\Users\Stan Thuman\Documents\Visual Studio 2017\Projects\WcfMapReduceService\WcfMapReduceService\obj\Debug\WcfMapReduceService.csprojResolveAssemblyReference.cache
